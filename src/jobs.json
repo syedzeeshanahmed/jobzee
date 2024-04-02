@@ -1,5 +1,5 @@
 {
-  "jobs":[
+  "jobs": [
     {
       "id": "1",
       "title": "Senior React Developer",
@@ -44,8 +44,8 @@
     },
     {
       "id": "4",
-      "title": "React Front-End Developer",
-      "type": "Part-Time",
+      "title": "React X",
+      "type": "Remote",
       "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
       "location": "Pheonix, AZ",
       "salary": "$60K - $70K",
